@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-28T17:31:17 GMT+04:00" name="Surefire suite" finished-at="2026-04-28T17:31:22 GMT+04:00" duration-ms="5286">
+    <groups>
+    </groups>
+    <test started-at="2026-04-28T17:31:17 GMT+04:00" name="Surefire test" finished-at="2026-04-28T17:31:22 GMT+04:00" duration-ms="5286">
+      <class name="UpdateBookingTest">
+        <test-method signature="updateBookingTest()[pri:0, instance:UpdateBookingTest@679b62af]" started-at="2026-04-28T17:31:17 GMT+04:00" name="updateBookingTest" finished-at="2026-04-28T17:31:22 GMT+04:00" duration-ms="5223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBookingTest -->
+      </class> <!-- UpdateBookingTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
