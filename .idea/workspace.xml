@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714e8ea7-02e7-4cff-8acf-f9df5dfe12cb" name="Changes" comment="" />
+    <list default="true" id="714e8ea7-02e7-4cff-8acf-f9df5dfe12cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UpdateBookingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/updateBookingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UpdateBookingTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,35 +48,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.RestAssuredProject [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.RestAssuredProject [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.RestAssuredProject [install].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.UpdateBookingTest.executor&quot;: &quot;Run&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;restAssured4&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/RestAssured&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.3070078&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.RestAssuredProject [clean].executor": "Run",
+    "Maven.RestAssuredProject [compile].executor": "Run",
+    "Maven.RestAssuredProject [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.UpdateBookingTest.executor": "Run",
+    "TestNG.updateBookingTest.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "restAssured2",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/RestAssured",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "settings.editor.splitter.proportion": "0.3070078",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="UpdateBookingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="updateBookingTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UpdateBookingTest" />
+      <option name="MAIN_CLASS_NAME" value="updateBookingTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -81,7 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.UpdateBookingTest" />
+        <item itemvalue="TestNG.updateBookingTest" />
       </list>
     </recent_temporary>
   </component>
