@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714e8ea7-02e7-4cff-8acf-f9df5dfe12cb" name="Changes" comment="">
+    <list default="true" id="714e8ea7-02e7-4cff-8acf-f9df5dfe12cb" name="Changes" comment="API automation tasks completed: booking update and booking validation">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UpdateBookingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/updateBookingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UpdateBookingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/updateBookingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/updateBookingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
     "TestNG.UpdateBookingTest.executor": "Run",
     "TestNG.updateBookingTest.executor": "Run",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "restAssured2",
+    "git-widget-placeholder": "restAssured3",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -106,6 +105,38 @@
       <option name="presentableId" value="Default" />
       <updated>1777372798147</updated>
     </task>
+    <task id="LOCAL-00001" summary="API automation tasks completed: booking update and booking validation">
+      <option name="closed" value="true" />
+      <created>1777626685602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777626685602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="API automation tasks completed: booking update and booking validation">
+      <option name="closed" value="true" />
+      <created>1777626700941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777626700941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API automation tasks completed: booking update and booking validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="API automation tasks completed: booking update and booking validation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/RestAssuredTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
